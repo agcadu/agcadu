@@ -39,7 +39,7 @@
 
 ## Contacto
 
-- 📧 Email: [agcadu@gamil.com](mailto:agcadu@gamil.com)
+- 📧 Email: [agcadu@gmail.com](mailto:agcadu@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/agcadu](https://www.linkedin.com/in/agcadu/)
 - 🌐 Portfolio: [agcadu.github.io](https://agcadu.github.io/portfolio/)
 
