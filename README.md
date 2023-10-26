@@ -43,4 +43,10 @@
 - 💼 LinkedIn: [linkedin.com/in/agcadu](https://www.linkedin.com/in/agcadu/)
 - 🌐 Portfolio: [agcadu.github.io](https://agcadu.github.io/portfolio/)
 
+## Estadísticas
+    
+<div style="display:grid;align-items:center;justify-content:center">    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agcadu&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
+
 
