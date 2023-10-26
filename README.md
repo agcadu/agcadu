@@ -4,12 +4,15 @@
 
 ![Encabezado del Proyecto](./dino.gif)
 
+
 ## Sobre mi
 
-### Soy un apasionado desarrollador, especializado en crear experiencias dinámicas con React en el frontend y desarrollar la lógica del negocio usando Spring en el backend.
+#### Soy desarrollador especializado en Spring con competencias en React, con un recorrido profesional que evidencia mi compromiso y determinación. Tras años en el ámbito administrativo, decidí seguir mi verdadera vocación, culminando mis estudios en Desarrollo de Aplicaciones Multiplataforma
 
 ## Skills
 
+
+<div>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -30,6 +33,8 @@
     <img src="https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
 </p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</div>
 
 
 ## Contacto
@@ -38,17 +43,4 @@
 - 💼 LinkedIn: [linkedin.com/in/agcadu](https://www.linkedin.com/in/agcadu/)
 - 🌐 Portfolio: [agcadu.github.io](https://agcadu.github.io/portfolio/)
 
-
-**agcadu/agcadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
