@@ -7,7 +7,7 @@
 
 ## Sobre mi
 
-#### Soy desarrollador especializado en Spring con competencias en React, con un recorrido profesional que evidencia mi compromiso y determinación. Tras años en el ámbito administrativo, decidí seguir mi verdadera vocación, culminando mis estudios en Desarrollo de Aplicaciones Multiplataforma
+#### Soy un apasionado desarrollador, especializado en desarrollar la lógica del negocio utilizando Spring en el backend. Además, poseo competencias en crear experiencias dinámicas con React en el frontend, lo que me permite abordar proyectos con una perspectiva integral.
 
 ## Skills
 
